@@ -58,7 +58,9 @@ export default function Home() {
             {/* Twitter & Chart buttons */}
             <div className="flex gap-4 justify-center">
               <a
-                href="#"
+                href="https://x.com/Unemployed13417"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="px-8 py-4 rounded-lg bg-[#161b22] text-[#8b949e] font-medium text-lg border border-[#3b4a5c] hover:border-[#6e5b8a]/50 hover:text-[#c9d1d9] transition-colors flex items-center gap-3"
               >
                 <svg className="w-6 h-6" viewBox="0 0 24 24" fill="currentColor">
@@ -161,7 +163,9 @@ export default function Home() {
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a
-                href="#"
+                href="https://x.com/Unemployed13417"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="btn-glow px-6 py-3 rounded-lg bg-[#6e5b8a]/80 text-white font-medium border border-[#6e5b8a]/50 hover:bg-[#6e5b8a] transition-colors"
               >
                 Twitter
